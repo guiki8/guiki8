@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40px"/>
-  <img src="https://static.macupdate.com/products/37306/m/gamemaker-studio-2-logo.png?v=1618309356" height="40px"/>
+  <img src="https://static.macupdate.com/products/37306/m/gamemaker-studio-2-logo.png" height="40px"/>
 </p>
 
 ---
