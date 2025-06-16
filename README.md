@@ -40,7 +40,7 @@
 - Desenvolvimento de Jogos 🎮
 - Modelagem 3D 🎨
 - Inteligência Artificial 🤖
-- Tecnologia, Inovação e Automação 🚀
+- Realidade Virtual 👓
 
 ---
 
