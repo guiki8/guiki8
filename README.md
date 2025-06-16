@@ -30,7 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40px"/>
-  <img src="https://static.macupdate.com/products/37306/m/gamemaker-studio-2-logo.png" height="40px"/>
+  <img src="[https://static.macupdate.com/products/37306/m/gamemaker-studio-2-logo.png](https://raw.githubusercontent.com/guiki8/guiki8/main/gamemaker-studio-2-logo.png
+)" height="40px"/>
 </p>
 
 ---
@@ -38,8 +39,8 @@
 ### 🌐 Meus interesses:
 - Desenvolvimento Web 🌍
 - Desenvolvimento de Jogos 🎮
-- Modelagem 3D 🎨
 - Inteligência Artificial 🤖
+- Modelagem 3D 🎨
 - Realidade Virtual 👓
 
 ---
