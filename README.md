@@ -60,7 +60,7 @@
   <br>
 
 ---
-
+<br><br>
 ### 📫 Contato:
 - 📧 E-mail: [g.moreirabruno@gmail.com](mailto:g.moreirabruno@gmail.com)
 - 🔗 LinkedIn: [www.linkedin.com/in/guilherme-m-bruno](https://www.linkedin.com/in/guilherme-m-bruno)
