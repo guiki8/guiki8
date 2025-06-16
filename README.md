@@ -46,24 +46,18 @@
 
 ---
 
-
-<div style="max-width: 600px;">
   <h3>🌐 Meus interesses: <img
         align="left"
         height="250px"
         src="https://raw.githubusercontent.com/guiki8/guiki8/main/pixil-gif-drawing.gif"
         alt="Pixil Drawing GIF" style="margin-left: 10px; transform: scaleX(-1);"/></h3>
-  <ul>
-    - Desenvolvimento Web 🌍
-    - Desenvolvimento de Jogos 🎮
-    Inteligência Artificial 🤖
-    Modelagem 3D 🎨
-    Realidade Virtual 👓
-  </ul>
+
+- Desenvolvimento Web 🌍
+- Desenvolvimento de Jogos 🎮
+- Inteligência Artificial 🤖
+- Modelagem 3D 🎨
+- Realidade Virtual 👓
   <br>
-</div>
-
-
 
 ---
 
