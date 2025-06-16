@@ -54,11 +54,11 @@
         src="https://raw.githubusercontent.com/guiki8/guiki8/main/pixil-gif-drawing.gif"
         alt="Pixil Drawing GIF" style="margin-left: 10px; transform: scaleX(-1);"/></h3>
   <ul>
-    <li>Desenvolvimento Web 🌍</li>
-    <li>Desenvolvimento de Jogos 🎮</li>
-    <li>Inteligência Artificial 🤖</li>
-    <li>Modelagem 3D 🎨</li>
-    <li>Realidade Virtual 👓</li>
+    - Desenvolvimento Web 🌍
+    - Desenvolvimento de Jogos 🎮
+    Inteligência Artificial 🤖
+    Modelagem 3D 🎨
+    Realidade Virtual 👓
   </ul>
   <br>
 </div>
