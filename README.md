@@ -1,12 +1,6 @@
 
 <h1 align="center">👋 Olá! Eu sou o Guilherme Bruno</h1>
 
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/guiki8/guiki8/main/cat.gif" height="300px" />
-</p>
-
 <p align="center">
   <b>🎓 Estudante do Senac Distrito Criativo - RS, Porto Alegre</b><br>
 </p>
