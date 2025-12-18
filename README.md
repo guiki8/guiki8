@@ -2,14 +2,14 @@
 <h1 align="center">👋 Olá! Eu sou o Guilherme Bruno</h1>
 
 <p align="center">
-  <b>🎓 Estudante do Senac Distrito Criativo - RS, Porto Alegre</b><br>
+  <b>Estudante do Senac Distrito Criativo - RS, Porto Alegre</b><br>
 </p>
 
 
 
 ---
 
-### 🚀 Sobre mim
+### Sobre mim
 - 🎯 Estudante da **Escola de Ensino Médio Senac Distrito Criativo**
 - 💻 Cursando **Técnico em Informática para Internet Integrado ao Ensino Médio**
 - 📍 Localizado em **Porto Alegre, Rio Grande do Sul - Brasil**
@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Tecnologias que estou aprendendo e utilizando:
+### Tecnologias que estou aprendendo e utilizando:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px" alt="HTML5"/>
@@ -40,7 +40,7 @@
 
 ---
 
-  <h3>🌐 Meus interesses: <img
+  <h3>Meus interesses: <img
         align="left"
         height="250px"
         src="https://raw.githubusercontent.com/guiki8/guiki8/main/pixil-gif-drawing.gif"
@@ -55,7 +55,7 @@
 
 ---
 <br><br>
-### 📫 Contato:
+### Contato:
 - 📧 E-mail: [g.moreirabruno@gmail.com](mailto:g.moreirabruno@gmail.com)
 - 🔗 LinkedIn: [www.linkedin.com/in/guilherme-m-bruno](https://www.linkedin.com/in/guilherme-m-bruno)
 
