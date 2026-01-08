@@ -2,7 +2,7 @@
 <h1 align="center">👋 Olá! Eu sou o Guilherme Bruno</h1>
 
 <p align="center">
-  <b>Estudante do Senac Distrito Criativo - RS, Porto Alegre</b><br>
+  <b>Desenvolvedor Full Stack Júnior - RS, Porto Alegre</b><br>
 </p>
 
 
@@ -10,10 +10,9 @@
 ---
 
 ### Sobre mim
-- 🎯 Estudante da **Escola de Ensino Médio Senac Distrito Criativo**
-- 💻 Cursando **Técnico em Informática para Internet Integrado ao Ensino Médio**
-- 📍 Localizado em **Porto Alegre, Rio Grande do Sul - Brasil**
-- 🚀 Apaixonado por **tecnologia, programação, desenvolvimento de jogos e inovação**
+- Formado em **Técnico em Informática para Internet (Desenvolvimento Web)**
+- Localizado em **Porto Alegre, Rio Grande do Sul - Brasil**
+- Apaixonado por **tecnologia, programação, desenvolvimento de jogos e inovação**
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Senac_logo.svg/1200px-Senac_logo.svg.png" height="80px">
