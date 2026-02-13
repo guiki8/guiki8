@@ -22,5 +22,5 @@
 <br><br>
 
 ### Contact:
--E-mail: [g.moreirabruno@gmail.com]
--dLinkedIn: [www.linkedin.com/in/guilherme-m-bruno]
+-E-mail: [g.moreirabruno@gmail.com]<br>
+-LinkedIn: [www.linkedin.com/in/guilherme-m-bruno]
