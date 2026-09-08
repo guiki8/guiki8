@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Guilherme Bruno</h1> <p align="center"> <b>Junior Full Stack Developer - 🇨🇦SK, Regina</b><br> </p>
+<h1 align="center">👋 Hello! I'm Guilherme Bruno</h1> <p align="center"> <b>Junior Full Stack Developer - Canada, Regina (SK)</b><br> </p>
 
 ### About Me
 -Graduated as a Web Development Technician (Internet Computing)<br>
