@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hello! I'm Guilherme Bruno</h1> <p align="center"> <b>Junior Full Stack Developer - RS, Porto Alegre</b><br> </p>
+<h1 align="center">👋 Hello! I'm Guilherme Bruno</h1> <p align="center"> <b>Junior Full Stack Developer - 🇨🇦SK, Regina</b><br> </p>
 
 ### About Me
 -Graduated as a Web Development Technician (Internet Computing)<br>
--Located in Porto Alegre, Rio Grande do Sul - Brazil<br>
+-Currently studying at the University of Regina - Brazil<br>
 -Passionate about technology, programming, game development, and innovation<br>
 <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Senac_logo.svg/1200px-Senac_logo.svg.png" height="80px"> </p>
 
